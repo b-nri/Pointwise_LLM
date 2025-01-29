@@ -2,9 +2,9 @@
 
 This directory contains the replication materials and results for three datasets used in this paper:
 
-dl19
-dl20
-touche
+. dl19
+. dl20
+. touche
 
 Each dataset folder has two subfolders, RQ1 and RQ2, corresponding to the two research questions addressed in the study:
 
