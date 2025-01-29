@@ -24,10 +24,8 @@ Within the **RQ1** folder of each dataset, you will find:
 
 Within the **RQ2** folder of each dataset, there are two subfolders:
 
-1. **ConstantTemperature**  
-2. **DifferentTemperatures**
+1. **diff_temp**  
+2. **one_temp**
 
-Each of these subfolders contains three additional folders, one for each of the **aggregation methods** considered in RQ2.  
-The structure can be summarized as follows:
-
+Each of these subfolders contains three additional folders, one for each of the **aggregation methods** considered in RQ2. 
 
