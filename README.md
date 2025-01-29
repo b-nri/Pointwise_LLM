@@ -16,7 +16,7 @@ Each dataset folder has two subfolders, **RQ1** and **RQ2**, corresponding to th
 Within the **RQ1** folder of each dataset, you will find:
 
 - One CSV file and one JSON file for **each** temperature setting.  
-- These files contain the experimental outcomes for **Research Question 1** at the specified temperature levels.
+- These files contain the experimental outcomes for **RQ1** at the specified temperature levels.
 
 ---
 
