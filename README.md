@@ -13,7 +13,7 @@ Each dataset folder has two subfolders, **RQ1** and **RQ2**, corresponding to th
 
 ## Model and Prompting Strategy
 
-We used the **[mistralai/Mixtral-8x7B-Instruct-v0.1]** ([https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1]) for all experiments.  
+We used the **mistralai/Mixtral-8x7B-Instruct-v0.1** (https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) for all experiments.  
 
 We designed our prompt bassed on the fine-grained relevance labels in the pointwise approach [1], Self-consistency [2] and Confidence Elicitation [3].  
 
